@@ -1,4 +1,4 @@
 {
-    "prefix": "!!",
-    "token": "HERE GO YOUR TOKEN, AQUI VA TU TOKEN"
+    "prefix": "^",
+    "token": "https://discord.com/api/oauth2/authorize?client_id=863921657521635359&permissions=0&scope=bot"
 }
